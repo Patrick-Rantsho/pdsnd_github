@@ -23,6 +23,6 @@ The following file contains necessary code:
 
 
 ### Credits
-Pandas documentation is very usefull: https://pandas.pydata.org/pandas-docs/stable/
+Pandas documentation is very usefull:  https://pandas.pydata.org/pandas-docs/stable/
 Numpy documentation.
 If I have doubts about the errors occured while running the code I used: www.stackoverflow.com
