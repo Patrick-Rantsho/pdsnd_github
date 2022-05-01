@@ -233,7 +233,7 @@ def display_data(df):
         row_data = df.iloc[i: i + 5].to_json(orient='records', lines=True).split('\n')
         for row in row_data:
             # print each user data
-            # Return user data in Json format
+            # Return user data in Json formatt
             parsed_row = json.loads(row)
             json_row = json.dumps(parsed_row, indent=2)
             print(json_row)
